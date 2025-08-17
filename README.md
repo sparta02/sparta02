@@ -37,6 +37,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white)
 
 **🗄️ Database & Cloud**
+
 ![MySQL](https://img.shields.io/badge/MySQL%20Router-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/LangGraph-03C75A?style=for-the-badge&logo=네이버&logoColor=white)
