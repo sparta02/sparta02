@@ -1,16 +1,53 @@
-## Hi there 👋
+# 📖 What Have I Been DoingAdd commentMore actions
 
-<!--
-**sparta02/sparta02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+### [ 👉 Portfolio Web Page 👈 ](https://sparta1r31.notion.site/1f5cf1c847cd80d994b9ed7aa5b3ca9f?pvs=74)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ What I Can Do
+
+<div align="center">
+ 
+### 😎 Pretty well-used
+
+**💻 Language**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**🚩 Framework**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+**💿 Tool**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-FF6F61?style=for-the-badge&logo=cursor&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=Make&logoColor=white)
+
+
+**📖 Library**
+
+![Pandas](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white)
+
+**🗄️ Database & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL%20Router-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Naver Cloud](https://img.shields.io/badge/LangGraph-03C75A?style=for-the-badge&logo=네이버&logoColor=white)
+
+
+### 🫡 Well-used
+
+**💻 Language**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
