@@ -13,7 +13,6 @@
 ### 😎 Pretty well-used
 
 **💻 Language**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +42,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL%20Router-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Naver Cloud](https://img.shields.io/badge/LangGraph-03C75A?style=for-the-badge&logo=네이버&logoColor=white)
+![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=네이버&logoColor=white)
 
 
 ### 🫡 Well-used
