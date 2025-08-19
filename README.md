@@ -2,7 +2,7 @@
 
 <div align="center">
  
-### [ 👉 Portfolio Web Page 👈 ](https://sparta1r31.notion.site/1f5cf1c847cd80d994b9ed7aa5b3ca9f?pvs=74)
+### [ 👉 Portfolio Web Page 👈 ](https://sparta1r31.notion.site/e1a00bf014e24f6bac9da752db90bd09?source=copy_link)
 
 </div>
 
