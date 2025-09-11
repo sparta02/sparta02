@@ -1,4 +1,4 @@
-<img width="1540" height="635" alt="image" src="https://github.com/user-attachments/assets/b4036b28-e986-4fff-b301-3de79ac6f721" /># 📖 What Have I Been DoingAdd commentMore actions
+# 📖 What Have I Been DoingAdd commentMore actions
 
 <div align="center">
  
