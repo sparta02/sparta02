@@ -1,8 +1,8 @@
-# 📖 What Have I Been DoingAdd commentMore actions
+<img width="1540" height="635" alt="image" src="https://github.com/user-attachments/assets/b4036b28-e986-4fff-b301-3de79ac6f721" /># 📖 What Have I Been DoingAdd commentMore actions
 
 <div align="center">
  
-### [ 👉 Portfolio Web Page 👈 ]([https://sparta1r31.notion.site/e1a00bf014e24f6bac9da752db90bd09?source=copy_link](https://sparta1r31.notion.site/26bcf1c847cd80f7b098c89ba1d280d2?source=copy_link))
+### [ 👉 Portfolio Web Page 👈 ](https://sparta1r31.notion.site/26bcf1c847cd80f7b098c89ba1d280d2?source=copy_link)
 
 </div>
 
