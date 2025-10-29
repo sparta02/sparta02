@@ -10,7 +10,7 @@
 
 <div align="center">
  
-### 😎 Pretty well-used
+### 😎 Pretty proficient
 
 **💻 Language**
 
