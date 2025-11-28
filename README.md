@@ -1,11 +1,3 @@
-# 📖 What Have I Been DoingAdd commentMore actions
-
-<div align="center">
- 
-### [ 👉 Portfolio Web Page 👈 ](https://sparta1r31.notion.site/26bcf1c847cd80f7b098c89ba1d280d2?source=copy_link)
-
-</div>
-
 # 🛠️ What I Can Do
 
 <div align="center">
