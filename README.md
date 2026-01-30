@@ -25,12 +25,6 @@
 ![UiPath](https://img.shields.io/badge/UiPath-350085?style=for-the-badge&logo=uipath&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
-**💿 Tool**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-FF6F61?style=for-the-badge&logo=cursor&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=Make&logoColor=white)
-
 
 **📖 Library**
 
