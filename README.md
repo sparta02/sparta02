@@ -1,68 +1,50 @@
-# 🛠️ What I Can Do
+<h1 align="center">🌱 Passionate Developer with a Heart for Collaboration</h1>
+<p align="center"><strong>Sungjae Lee</strong></p>
+<p align="center">
+  | AI · Web Developer | Automation Engineer |
+</p>
 
-<div align="center">
- 
-### 😎 Pretty proficient
+---
 
-**💻 Language**
+## 📚 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+| Period            | University / Major                          | GPA     | Note                         |
+| ----------------- | ------------------------------------------- | ------- | ---------------------------- |
+| 2021.03 – 2023.02 | Seojeong University / Internet Information  | 4.5/4.5 | Graduated (Associate Degree) |
+| 2024.03 – 2026.08 | Chung-Ang University / Software Engineering | 4.5/4.5 | Enrolled (Bachelor)          |
 
+---
 
-**🚩 Framework**
+## 💼 Experience
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-**⚙️ Workflow Automation**
-
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-350085?style=for-the-badge&logo=uipath&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-
-
-**📖 Library**
-
-![Pandas](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**🗄️ Database & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=네이버&logoColor=white)
-
-**🎨 Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Vegas Pro](https://img.shields.io/badge/Vegas%20Pro-1A1A1A?style=for-the-badge&logo=vegas&logoColor=white)
-
-**🤝 Collaboration**
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🙂 Well-used
-
-**💻 Language**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**🚩 Framework**
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+| Period            | Organization/Role                                    | Key Projects & Responsibilities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025.02 – 2025.08 | **NextChapter(넥스트챕터)** / Software Engineering Intern | **[프로젝트 및 담당 역할]**<br>1. 전사 데이터 통합 및 ETL 파이프라인 구축<br>- 이커머스 16개 브랜드 매출/광고/물류 데이터를 통합한 공헌이익 분석 구조 설계<br>- 2개월간 30회 이상의 인터뷰를 통해 비용 귀속 기준 정의<br><br>- Airflow, n8n, UiPath 기반 데이터 수집 자동화 및 SQL, Python(Pandas) 기반 ETL 파이프라인 구축<br><br>2. 데이터 분석 및 인사이트 도출<br>- 매달 분석 결과를 기반으로 수익성 낮은 상품 식별 및 인사이트 도출<br>- C-level 회의 및 각 부서에 인사이트 공유, 데이터 기반 의사결정 지원<br>- 공헌이익 데이터를 AI Agent와 연동하여 비개발 직군도 활용할 수 있도록 접근성 개선<br><br>**[업무 성과]**<br>- 데이터 기반 전략 수립으로 연간 반복 매출(YRR) 300억 원 → 400억 원 성장 기여<br>- 공헌이익 분석 자동화로 제품/채널별 수익성 실시간 파악 체계 구축<br>- C-level 의사결정 지표로 공헌이익 분석 대시보드 활용<br>- 전사 데이터 체계 확립                |
+| 2024.02 – Present | **WSEDU** / CEO                                      | **[사업 설명]**<br>- 대학 편입 준비생을 대상으로 온라인 1:1 학습관리 플랫폼 운영<br>- 14명 규모의 팀 총괄<br><br>**[프로젝트 및 담당 역할]**<br>1. 서비스 운영 및 데이터 기반 고객 니즈 분석<br>- 2년간 플랫폼을 운영하며 상담 데이터 분석을 통해 기존 서비스 개선 및 신규 서비스 기획<br><br>2. AI Agent 기반 상담 자동화 서비스 개발<br>- 상담 로그 분석을 통해 약 82%의 질문이 반복 패턴임을 파악<br>- 반복 질문 대응을 위한 AI Agent 개발<br>- 입시 정보/상담 기록 10,000건 이상 데이터 정제 후 LangGraph 기반 워크플로우 제작<br><br>3. 서비스 운영 자동화 프로세스 개발<br>- 결제, 상담, 마케팅 등 반복적인 업무 자동화 RPA 시스템 구축<br>- n8n, 스크립트 기반 자동화 도입으로 업무 효율화<br><br>**[업무 성과]**<br>- AI Agent, 행정 업무 자동화로 인력 리소스 26% 절감<br>- 월간 반복 매출 1,200만 원 및 순이익률 54% 달성<br>- Pre-TIPS 정부과제 수행, 투자 유치 제안 |
 
 
 
-</div>
+## 🛠 Tech Stack
+
+| **Category**            | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white) |
+| **Backend**             | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Frontend**            | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)                                                                                                                                                                                                                                                                                                                  |
+| **Workflow Automation** | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square\&logo=apacheairflow\&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white) ![UiPath](https://img.shields.io/badge/UiPath-350085?style=flat-square\&logo=uipath\&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square\&logo=make\&logoColor=white)                                                                                                                                                                                                                        |
+| **Data & AI**           | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=flat-square\&logo=huggingface\&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square\&logoColor=white)                                                                                                                                                                                          |
+| **Database & Cloud**    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=MySQL\&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white) ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square\&logoColor=white)                                                                                                                                                                                                                                                                                                                                      |
+| **Design**              | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square\&logo=adobephotoshop\&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square\&logo=adobepremierepro\&logoColor=white) ![Vegas Pro](https://img.shields.io/badge/Vegas%20Pro-1A1A1A?style=flat-square\&logoColor=white)                                                                                                                                                                               |
+| **Tools**               | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square\&logo=notion\&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square\&logo=slack\&logoColor=white)                                                                                                                                                                                                                                                                                                                                           |
+
+---
+
+## 📄 Certification
+
+| Certification  | Issuing Organization |
+| -------------- | -------------------- |
+| ADsP           | 한국데이터산업진흥원           |
+| TOPCIT Level 4 | 과학기술정보통신부            |
+| SQLD           | 한국데이터산업진흥원           |
+| 정보처리산업기사       | 한국산업인력공단             |
+
