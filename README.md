@@ -39,12 +39,4 @@
 
 ---
 
-## 📄 Certification
-
-| Certification  | Issuing Organization |
-| -------------- | -------------------- |
-| ADsP           | 한국데이터산업진흥원           |
-| TOPCIT Level 4 | 과학기술정보통신부            |
-| SQLD           | 한국데이터산업진흥원           |
-| 정보처리산업기사       | 한국산업인력공단             |
 
