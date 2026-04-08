@@ -1,7 +1,7 @@
 <h1 align="center">🌱 Passionate Developer with a Heart for Collaboration</h1>
 <p align="center"><strong>Sungjae Lee</strong></p>
 <p align="center">
-  | AI · Web Developer | Automation Engineer |
+  | AI · Data Engineeri | Backend & Frontend Developer |
 </p>
 
 ---
@@ -10,8 +10,8 @@
 
 | Period            | University / Major                          | GPA     | Note                         |
 | ----------------- | ------------------------------------------- | ------- | ---------------------------- |
+| 2024.03 – 2026.08 | Chung-Ang University / Computer Science and Engineering | 4.5/4.5 | Expected Graduation (Bachelor)          |
 | 2021.03 – 2023.02 | Seojeong University / Internet Information  | 4.5/4.5 | Graduated (Associate Degree) |
-| 2024.03 – 2026.08 | Chung-Ang University / Software Engineering | 4.5/4.5 | Enrolled (Bachelor)          |
 
 ---
 
