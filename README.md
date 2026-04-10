@@ -1,8 +1,5 @@
 <h1 align="center">🌱 Passionate Developer with a Heart for Collaboration</h1>
 <p align="center"><strong>Sungjae Lee</strong></p>
-<p align="center">
-  | AI · Data Engineer | Backend & Frontend Developer |
-</p>
 
 ---
 
