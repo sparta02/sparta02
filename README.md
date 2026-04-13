@@ -1,14 +1,5 @@
 <h1 align="center">🌱 Passionate Developer with a Heart for Collaboration</h1>
 
-## 📚 About Me
-
-| Period            | University / Major                          | Note                         |
-| ----------------- | ------------------------------------------- | ---------------------------- |
-| 2024.03 – 2026.08 | Chung-Ang University / Computer Science and Engineering | Expected Graduation (Bachelor)          |
-| 2021.03 – 2023.02 | Seojeong University / Internet Information  | Graduated (Associate Degree) |
-
----
-
 ## 🛠 Tech Stack
 
 | **Category**            | **Technologies** |
