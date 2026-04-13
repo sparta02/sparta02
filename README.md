@@ -1,5 +1,4 @@
 <h1 align="center">🌱 Passionate Developer with a Heart for Collaboration</h1>
----
 
 ## 📚 About Me
 
